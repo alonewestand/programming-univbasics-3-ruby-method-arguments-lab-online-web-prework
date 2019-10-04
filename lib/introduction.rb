@@ -9,3 +9,5 @@ def introduction_with_language(name, language)
 end
 
 introduction_with_language("Bob", "Ruby")
+
+introduction_with_language_optional
